@@ -19,9 +19,11 @@ namespace OOP
             //FindMinMaxElement findMinMaxElement = new FindMinMaxElement();
             //findMinMaxElement.MinimumMaximumElement();
 
-            Pattern pattern = new Pattern();
-            pattern.StarPatterns();
+            //Pattern pattern = new Pattern();
+            //pattern.StarPatterns();
 
+            Pattern2 pattern = new Pattern2();
+            pattern.SquarePattern();
         }
     }
 }
