@@ -22,8 +22,11 @@ namespace OOP
             //Pattern pattern = new Pattern();
             //pattern.StarPatterns();
 
-            Pattern2 pattern = new Pattern2();
-            pattern.SquarePattern();
+            //Pattern2 pattern = new Pattern2();
+            //pattern.SquarePattern();
+
+            ReverseString reverseString = new ReverseString();
+            reverseString.StringReverse();
         }
     }
 }
