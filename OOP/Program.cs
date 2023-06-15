@@ -13,9 +13,11 @@ namespace OOP
             //FindUniqueElement unique = new FindUniqueElement();
             //unique.CheckUniqueElement();
 
-            CountFrequency countFrequency = new CountFrequency();
-            countFrequency.FrequencyOfElement();
+            //CountFrequency countFrequency = new CountFrequency();
+            //countFrequency.FrequencyOfElement();
 
+            FindMinMaxElement findMinMaxElement = new FindMinMaxElement();
+            findMinMaxElement.MinimumMaximumElement();
 
         }
     }
