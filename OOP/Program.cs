@@ -10,8 +10,12 @@ namespace OOP
             // duplicateElement.CheckDuplicateItem();
 
 
-            FindUniqueElement unique = new FindUniqueElement();
-            unique.CheckUniqueElement();
+            //FindUniqueElement unique = new FindUniqueElement();
+            //unique.CheckUniqueElement();
+
+            CountFrequency countFrequency = new CountFrequency();
+            countFrequency.FrequencyOfElement();
+
 
         }
     }
