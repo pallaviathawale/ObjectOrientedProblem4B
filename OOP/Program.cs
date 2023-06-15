@@ -25,8 +25,11 @@ namespace OOP
             //Pattern2 pattern = new Pattern2();
             //pattern.SquarePattern();
 
-            ReverseString reverseString = new ReverseString();
-            reverseString.StringReverse();
+            //ReverseString reverseString = new ReverseString();
+            //reverseString.StringReverse();
+
+            SumOfAllDigits sumOfAllDigits = new SumOfAllDigits();
+            sumOfAllDigits.Sum();
         }
     }
 }
