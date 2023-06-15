@@ -16,8 +16,11 @@ namespace OOP
             //CountFrequency countFrequency = new CountFrequency();
             //countFrequency.FrequencyOfElement();
 
-            FindMinMaxElement findMinMaxElement = new FindMinMaxElement();
-            findMinMaxElement.MinimumMaximumElement();
+            //FindMinMaxElement findMinMaxElement = new FindMinMaxElement();
+            //findMinMaxElement.MinimumMaximumElement();
+
+            Pattern pattern = new Pattern();
+            pattern.StarPatterns();
 
         }
     }
